@@ -1,7 +1,7 @@
 ---
 genres:
-  - simulation
-  - management
+  - action
+  - platformer
   - casual
 directors_cut: https://lopis.github.io/thirteen-terrible-stunts/
 # See github.com/js13kGames/hello-world for supported frontmatter
